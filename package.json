@@ -2,6 +2,7 @@
   "name": "mapbox",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://fsss126.github.io/geo-editor/",
   "dependencies": {
     "@mapbox/mapbox-gl-draw": "^1.1.1",
     "@mapbox/togeojson": "^0.16.0",
